@@ -1,0 +1,6 @@
+--markup markdown
+lib/charm.rb
+lib/charm/*
+lib/ncurses.rb
+lib/ncurses/*
+ext/ncurses/extconf.rb

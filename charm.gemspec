@@ -13,6 +13,8 @@ Gem::Specification.new do |s|
   s.rubyforge_project = "charm"
   s.extensions << "ext/ncurses/extconf.rb"
   s.extra_rdoc_files = %w[README.mdown LICENSE]
+  s.add_development_dependency 'yard'
+  s.add_development_dependency 'rdiscount'
   s.files         = `git ls-files`.split("\n")
   s.test_files    = `git ls-files -- {test,spec,features}/*`.split("\n")
   s.executables   = `git ls-files -- bin/*`.split("\n").map{ |f| File.basename(f) }

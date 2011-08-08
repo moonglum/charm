@@ -1,0 +1,13 @@
+lib/charm.rb 6de7c825c971986f9f34542edf17c9dedbd5cb12
+lib/ncurses.rb 95b56dd1256a3a4922c634804993223f00200b4f
+lib/ncurses/menu.rb f0aba898d067a0bee100a7e6c4f9d3dd4d001ad0
+lib/ncurses/form.rb 6b6567e9a0f7c3dc72a319c8a3e84bb6e8050834
+lib/charm/version.rb 7ee364c27f4f40136ef9851b289581cd0ed43153
+lib/ncurses/panel.rb 01f214f379ff0e55bdd15d959b3928c477680c7e
+lib/ncurses/window.rb 6ba229277d019690fe25b2f82dd7773d60f8f90e
+lib/ncurses/screen.rb 134ba7b8e8f177647ffa1a54246d6df7dd826b0d
+lib/ncurses/mvevent.rb 80507622348cf89ea7905869d5c66754c2b49991
+ext/ncurses/extconf.rb dda3d7c68c27f320f5d7aba96654f07cd9fad6ba
+lib/ncurses/functions.rb 64a4d64425b1f5ae133a47c0407e05b7ce20763b
+lib/ncurses/constants.rb c716b97a2e3bb5a40f766bf7b8250e47073eb720
+lib/ncurses/destroy_checker.rb 7fe22d8ab368b3201a5ec3bf22c33104b65b3aa3
