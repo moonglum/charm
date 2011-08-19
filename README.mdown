@@ -12,10 +12,14 @@ The primary goals are:
 
 Currently the gem provides you with a library called ncurses which is identical to the original snowleopard-ncurses gem (require 'ncurses'). Step by step the features will be ported to Ruby.
 
-## Plans
+## Dedicated to the code poet, why
 
-* Step by step convert the examples taken from [ncurses_examples](https://github.com/zdennis/ncurses_examples) folder to a features folder with minitest spec whilst converting the syntax
-* Write `minitest/charm`, which provides minitest with some helpers for testing the output of your applications
+Even though this is currently just a cleaned up version of the
+snowleopard-ncurses gem, this will be released today. Why? Because today
+is why-day. The DSL for creating the commandline interfaces will be
+similiar to the Shoes DSL for creating GUIs. I think this is a good
+match for a why-day release and by next why-day the 1.0 version will be
+released. And I had to release something at Why-Day.
 
 ## Thanks
 
@@ -38,5 +42,14 @@ A list of people that helped with the original gem:
 * Paul Duncan
 * Tim Sutherland
 * Earle Clubb
+* Zach Dennis (for the examples)
 
-Thanks to Zach Dennis for the examples.
+## Word Of Warning
+
+Even though this should have been delivered with an onion, all you get
+is an ASCII Art Fox. Sorry for that.
+
+   /\_/\
+   (@ @)
+    \_/
+     V

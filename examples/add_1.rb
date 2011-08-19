@@ -1,4 +1,4 @@
-require 'ncurses'
+require 'charm'
 
 begin
   window = Ncurses.initscr
