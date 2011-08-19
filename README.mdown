@@ -49,7 +49,7 @@ A list of people that helped with the original gem:
 Even though this should have been delivered with an onion, all you get
 is an ASCII Art Fox. Sorry for that.
 
-   /\_/\
-   (@ @)
-    \_/
-     V
+     /\_/\
+     (@ @)
+      \_/
+       V
